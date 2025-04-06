@@ -1,0 +1,23 @@
+
+---
+
+### **3. main_LogTracePanel**  
+**Description:**  
+Analyzes logs for repeated messages, grouped spikes, and unusual trends.
+
+#### **README.md**
+```markdown
+# LogTracePanel - Pattern Recognition in Logs
+
+LogTracePanel groups repeated log lines, detects burst intervals, and filters key anomalies for deeper diagnostics.
+
+## Features
+- Burst and frequency detection  
+- Keyword filters  
+- Summary report generation  
+
+## Usage
+```bash
+git clone https://github.com/your-username/main_LogTracePanel.git
+cd main_LogTracePanel
+python analyze.py
